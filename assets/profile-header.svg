@@ -1,35 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
   <title id="title">Carlos Miranda, desarrollador de software y consultor DevOps</title>
-  <desc id="description">Panel de operaciones oscuro que conecta producto, datos, infraestructura y software local-first mediante una ruta chartreuse.</desc>
-  <rect width="1200" height="360" rx="24" fill="#080909"/>
-  <rect x="20" y="20" width="1160" height="320" rx="16" fill="#0d0f0f" stroke="#343934" stroke-width="2"/>
+  <desc id="description">Nombre y rol profesional de Carlos Miranda sobre una superficie oscura con acentos chartreuse.</desc>
+  <rect width="1200" height="220" fill="#080909"/>
+  <line x1="4" y1="0" x2="4" y2="220" stroke="#343934" stroke-width="3"/>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="56" y="66" fill="#a7ada5" font-size="18" letter-spacing="4">CAMIR / INGENIERÍA DE SISTEMAS</text>
-    <circle cx="1134" cy="59" r="7" fill="#d7ff4f"/>
-    <text x="1114" y="98" fill="#a7ada5" font-size="14" text-anchor="end" letter-spacing="2">DISPONIBLE</text>
-
-    <text x="54" y="168" fill="#d7ff4f" font-size="72" font-weight="700" letter-spacing="-3">CA</text>
-    <text x="150" y="168" fill="#f2f1e9" font-size="72" font-weight="700" letter-spacing="-3">RLOS</text>
-    <text x="362" y="168" fill="#d7ff4f" font-size="72" font-weight="700" letter-spacing="-3">MIR</text>
-    <text x="485" y="168" fill="#f2f1e9" font-size="72" font-weight="700" letter-spacing="-3">ANDA</text>
-    <text x="56" y="207" fill="#a7ada5" font-size="23" letter-spacing="3">DESARROLLADOR DE SOFTWARE · CONSULTOR DEVOPS</text>
-
-    <line x1="56" y1="263" x2="1144" y2="263" stroke="#343934" stroke-width="2"/>
-    <line x1="113" y1="263" x2="1087" y2="263" stroke="#d7ff4f" stroke-width="3"/>
-
-    <g font-size="16" font-weight="700" letter-spacing="2">
-      <circle cx="113" cy="263" r="8" fill="#d7ff4f"/>
-      <text x="56" y="307" fill="#f2f1e9">PRODUCTO</text>
-
-      <circle cx="426" cy="263" r="8" fill="#d7ff4f"/>
-      <text x="390" y="307" fill="#f2f1e9">DATOS</text>
-
-      <circle cx="747" cy="263" r="8" fill="#d7ff4f"/>
-      <text x="662" y="307" fill="#f2f1e9">INFRAESTRUCTURA</text>
-
-      <circle cx="1087" cy="263" r="8" fill="#d7ff4f"/>
-      <text x="1014" y="307" fill="#f2f1e9">LOCAL-FIRST</text>
-    </g>
+    <text x="44" y="120" fill="#d7ff4f" font-size="82" font-weight="700" letter-spacing="-3">CA</text>
+    <text x="158" y="120" fill="#f2f1e9" font-size="82" font-weight="700" letter-spacing="-3">RLOS</text>
+    <text x="401" y="120" fill="#d7ff4f" font-size="82" font-weight="700" letter-spacing="-3">MIR</text>
+    <text x="541" y="120" fill="#f2f1e9" font-size="82" font-weight="700" letter-spacing="-3">ANDA</text>
+    <text x="44" y="166" fill="#a7ada5" font-size="25" letter-spacing="4">DESARROLLADOR DE SOFTWARE · CONSULTOR DEVOPS</text>
   </g>
 </svg>
