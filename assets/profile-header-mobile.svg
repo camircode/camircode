@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-labelledby="title description">
-  <title id="title">Carlos Miranda, Software Engineer and DevOps Consultant</title>
-  <desc id="description">A compact dark operations panel connecting product, data, infrastructure, and local-first software through one chartreuse signal path.</desc>
+  <title id="title">Carlos Miranda, desarrollador de software y consultor DevOps</title>
+  <desc id="description">Panel compacto de operaciones que conecta producto, datos, infraestructura y software local-first mediante una ruta chartreuse.</desc>
   <rect width="720" height="520" rx="24" fill="#080909"/>
   <rect x="20" y="20" width="680" height="480" rx="16" fill="#0d0f0f" stroke="#343934" stroke-width="2"/>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="52" y="72" fill="#a7ada5" font-size="28" letter-spacing="4">CAMIR / SYSTEMS</text>
+    <text x="52" y="72" fill="#a7ada5" font-size="28" letter-spacing="4">CAMIR / SISTEMAS</text>
     <circle cx="654" cy="62" r="9" fill="#d7ff4f"/>
 
     <text x="48" y="190" fill="#d7ff4f" font-size="90" font-weight="700" letter-spacing="-3">CA</text>
     <text x="168" y="190" fill="#f2f1e9" font-size="90" font-weight="700" letter-spacing="-3">RLOS</text>
     <text x="48" y="286" fill="#d7ff4f" font-size="90" font-weight="700" letter-spacing="-3">MIR</text>
     <text x="204" y="286" fill="#f2f1e9" font-size="90" font-weight="700" letter-spacing="-3">ANDA</text>
-    <text x="52" y="340" fill="#a7ada5" font-size="30" letter-spacing="2">SOFTWARE ENGINEER</text>
-    <text x="52" y="380" fill="#a7ada5" font-size="30" letter-spacing="2">DEVOPS CONSULTANT</text>
+    <text x="52" y="340" fill="#a7ada5" font-size="30" letter-spacing="2">DESARROLLADOR DE SOFTWARE</text>
+    <text x="52" y="380" fill="#a7ada5" font-size="30" letter-spacing="2">CONSULTOR DEVOPS</text>
 
     <line x1="52" y1="426" x2="668" y2="426" stroke="#343934" stroke-width="2"/>
     <line x1="74" y1="426" x2="646" y2="426" stroke="#d7ff4f" stroke-width="4"/>
@@ -23,8 +23,8 @@
     <circle cx="646" cy="426" r="9" fill="#d7ff4f"/>
 
     <g fill="#f2f1e9" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="1">
-      <text x="74" y="470">PRODUCT</text>
-      <text x="264" y="470">DATA</text>
+      <text x="74" y="470">PRODUCTO</text>
+      <text x="264" y="470">DATOS</text>
       <text x="454" y="470">INFRA</text>
       <text x="646" y="470">LOCAL</text>
     </g>

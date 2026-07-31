@@ -1,89 +1,90 @@
 <!--
-THESIS: Present Carlos through connected systems and evidence, not a wall of badges.
-OWN-WORLD: A dark operations rack with warm readouts, one chartreuse live path, and ruled equipment bays.
-STORY: Understand the engineering range, inspect real systems, then continue to the portfolio or contact.
-FIRST VIEWPORT: Identity and role lead inside one authored systems panel; direct actions sit immediately below.
-FORM: An operational brief that moves from positioning to proof, engineering principles, and contact.
+TESIS: Presentar a Carlos mediante sistemas conectados y evidencia, no como un muro de insignias.
+MUNDO: Un rack de operaciones oscuro con lecturas cálidas, una ruta chartreuse activa y módulos delimitados.
+HISTORIA: Comprender el alcance técnico, inspeccionar sistemas reales y continuar al portfolio o al contacto.
+PRIMERA VISTA: La identidad y el rol lideran dentro de un panel propio; las acciones directas aparecen debajo.
+FORMA: Un resumen operativo que avanza desde el posicionamiento hacia la evidencia, los principios y el contacto.
 -->
 
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-    <img src="./assets/profile-header.svg" width="100%" alt="Carlos Miranda, Software Engineer and DevOps Consultant. Product, data, infrastructure, and local-first systems connected by one live path." />
+    <img src="./assets/profile-header.svg" width="100%" alt="Carlos Miranda, desarrollador de software y consultor DevOps. Producto, datos, infraestructura y sistemas local-first conectados por una ruta activa." />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/camircode/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore_the_source-d7ff4f?style=for-the-badge&labelColor=101306" alt="Explore the portfolio source" /></a>
-  <a href="https://www.linkedin.com/in/camircode/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:carlosmir.code@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-f2f1e9?style=for-the-badge&labelColor=202321" alt="Email Carlos Miranda" /></a>
+  <a href="https://camir.tech"><img src="https://img.shields.io/badge/Portfolio-Visitar_camir.tech-d7ff4f?style=for-the-badge&labelColor=101306" alt="Visitar el portfolio camir.tech" /></a>
+  <a href="https://www.linkedin.com/in/camircode/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" /></a>
+  <a href="mailto:carlosmir.code@gmail.com"><img src="https://img.shields.io/badge/Correo-Escribir-f2f1e9?style=for-the-badge&labelColor=202321" alt="Escribir a Carlos Miranda" /></a>
 </p>
 
-## I build systems that connect product, data, and operations.
+## Construyo sistemas que conectan producto, datos y operaciones.
 
-I am a software engineer and DevOps consultant based in Mexico. My work spans product interfaces, backend architecture, local-first applications, and self-hosted infrastructure. I care about software that remains understandable under change and dependable outside the happy path.
+Soy desarrollador de software y consultor DevOps en México. Mi trabajo abarca interfaces de producto, arquitectura backend, aplicaciones local-first e infraestructura autohospedada. Me importa construir software que siga siendo comprensible ante el cambio y confiable fuera del camino ideal.
 
-I am currently pursuing degrees in **Software Engineering** and **Artificial Intelligence Engineering** while building open-source products and production operations software.
+Actualmente curso **Ingeniería de Software** e **Ingeniería en Inteligencia Artificial** mientras desarrollo productos de código abierto y software de operaciones para producción.
 
-## Production Experience
+## Experiencia en producción
 
-### FER&REN · Systems Developer → DevOps Consultant
+### FER&REN · Desarrollador de sistemas → Consultor DevOps
 
-`July 2025 – July 2026 · State of Mexico`
+`Julio de 2025 – julio de 2026 · Estado de México`
 
-- Built five Flutter and Supabase applications around attendance, quoting, inventory, sales, and studio income workflows.
-- Migrated those workflows to Astro, Preact, and Directus, then expanded the platform to ten connected production applications.
-- Established self-hosted high-availability infrastructure across three nodes with PostgreSQL, Patroni, etcd, Docker, and Cloudflare Tunnel.
-- Built Go services for scheduled notifications, monitoring, and controlled infrastructure operations.
+- Desarrollé cinco aplicaciones Flutter y Supabase para flujos de asistencia, cotización, inventario, ventas e ingresos del estudio.
+- Migré esos flujos a Astro, Preact y Directus, y después amplié la plataforma hasta diez aplicaciones conectadas en producción.
+- Establecí infraestructura autohospedada de alta disponibilidad en tres nodos con PostgreSQL, Patroni, etcd, Docker y Cloudflare Tunnel.
+- Desarrollé servicios en Go para notificaciones programadas, monitoreo y operaciones controladas de infraestructura.
 
-## Selected Systems
+## Sistemas seleccionados
 
 ### [2 Free](https://github.com/camircode/2free)
 
-Open-source personal finance across web, Linux, and Android, with encrypted local storage and optional self-hosting.
+Finanzas personales de código abierto para web, Linux y Android, con almacenamiento local cifrado y autohospedaje opcional.
 
 `TypeScript` `Next.js` `NestJS` `PostgreSQL` `Tauri` `Rust` `SQLCipher`
 
-### [camir.tech portfolio](https://github.com/camircode/portfolio)
+### [Portfolio camir.tech](https://camir.tech)
 
-A bilingual, static-first portfolio where every project area and technology remains independently linkable and indexable.
+Portfolio bilingüe y de prioridad estática donde cada área de proyecto y tecnología conserva una ruta independiente, enlazable e indexable. [Ver código fuente](https://github.com/camircode/portfolio).
 
 `Astro` `GSAP` `Three.js` `Remotion` `Playwright`
 
-### [FER&REN Portal case study](https://github.com/camircode/portfolio#privacy-boundary)
+### [Caso de estudio de FER&REN Portal](https://camir.tech/proyectos/portal/)
 
-Ten connected operational applications backed by private, self-hosted high-availability infrastructure. Public evidence uses sanitized or synthetic data only.
+Diez aplicaciones operativas conectadas sobre infraestructura privada, autohospedada y de alta disponibilidad. La evidencia pública utiliza exclusivamente datos sanitizados o sintéticos.
 
 `Astro` `Preact` `Directus` `PostgreSQL` `Go` `Docker`
 
-## Engineering Focus
+## Enfoque de ingeniería
 
-- **Product systems:** accessible interfaces, typed contracts, progressive enhancement, and clear operational workflows.
-- **Local-first software:** offline capability, encrypted device storage, explicit synchronization boundaries, and user ownership.
-- **Backend and data:** domain separation, exact monetary values, authorization boundaries, idempotency, and relational integrity.
-- **Operations:** reproducible deployment, self-hosting, observability, failure recovery, and infrastructure without hidden manual steps.
+- **Sistemas de producto:** interfaces accesibles, contratos tipados, mejora progresiva y flujos operativos claros.
+- **Software local-first:** funcionamiento sin conexión, almacenamiento cifrado en el dispositivo, límites explícitos de sincronización y propiedad del usuario.
+- **Backend y datos:** separación de dominio, importes monetarios exactos, límites de autorización, idempotencia e integridad relacional.
+- **Operaciones:** despliegues reproducibles, autohospedaje, observabilidad, recuperación ante fallos e infraestructura sin pasos manuales ocultos.
 
-## How I Work
+## Cómo trabajo
 
-- I start from the domain and its failure modes, not from a framework checklist.
-- I keep public claims tied to code, releases, or sanitized implementation evidence.
-- I use automation to shorten feedback loops, then verify behavior with types, tests, and real-browser checks.
-- I treat accessibility, privacy, reduced motion, and graceful degradation as architecture constraints.
-- I prefer explicit tradeoffs and maintainable boundaries over clever abstractions.
+- Parto del dominio y sus modos de fallo, no de una lista de marcos de trabajo.
+- Mantengo las afirmaciones públicas vinculadas con código, versiones o evidencia de implementación sanitizada.
+- Uso automatización para acortar los ciclos de retroalimentación y después verifico el comportamiento con tipos, pruebas y navegadores reales.
+- Trato la accesibilidad, privacidad, reducción de movimiento y degradación controlada como restricciones de arquitectura.
+- Prefiero compromisos explícitos y límites mantenibles antes que abstracciones ingeniosas.
 
-## Current Direction
+## Dirección actual
 
-- Building and releasing [2 Free](https://github.com/camircode/2free) as an open, local-first finance platform.
-- Deepening my work across Go services, Rust application boundaries, PostgreSQL, and high-availability operations.
-- Studying Software Engineering and Artificial Intelligence Engineering.
-- Open to software engineering and DevOps opportunities where product ownership and operational responsibility meet.
+- Desarrollo y publico [2 Free](https://github.com/camircode/2free) como una plataforma de finanzas abierta y local-first.
+- Profundizo mi trabajo con servicios en Go, límites de aplicación en Rust, PostgreSQL y operaciones de alta disponibilidad.
+- Estudio Ingeniería de Software e Ingeniería en Inteligencia Artificial.
+- Estoy abierto a oportunidades de desarrollo de software y DevOps donde coincidan la responsabilidad de producto y la responsabilidad operativa.
 
-## Continue
+## Continuar
 
-- **Portfolio source:** [github.com/camircode/portfolio](https://github.com/camircode/portfolio)
-- **Open-source work:** [github.com/camircode/2free](https://github.com/camircode/2free)
+- **Portfolio:** [camir.tech](https://camir.tech)
+- **Código fuente del portfolio:** [github.com/camircode/portfolio](https://github.com/camircode/portfolio)
+- **Proyecto de código abierto:** [github.com/camircode/2free](https://github.com/camircode/2free)
 - **LinkedIn:** [linkedin.com/in/camircode](https://www.linkedin.com/in/camircode/)
-- **Email:** [carlosmir.code@gmail.com](mailto:carlosmir.code@gmail.com)
-- **Resume:** [English PDF](https://github.com/camircode/portfolio/raw/main/public/downloads/Carlos-Miranda-CV-en.pdf) · [Spanish PDF](https://github.com/camircode/portfolio/raw/main/public/downloads/Carlos-Miranda-CV-es.pdf)
+- **Correo:** [carlosmir.code@gmail.com](mailto:carlosmir.code@gmail.com)
+- **CV:** [PDF en español](https://camir.tech/downloads/Carlos-Miranda-CV-es.pdf) · [PDF en inglés](https://camir.tech/downloads/Carlos-Miranda-CV-en.pdf)
 
-<p align="center"><sub>Spanish native · English A2 · Based in the State of Mexico</sub></p>
+<p align="center"><sub>Español nativo · Inglés A2 · Estado de México</sub></p>
