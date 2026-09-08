@@ -47,14 +47,14 @@ donde explico para qué sirve y cómo la uso.
 
 | Área | Herramientas |
 | --- | --- |
-| **Lenguajes** | TypeScript · JavaScript · Go · Rust · HTML · CSS |
-| **Web e interfaz** | Astro · React · Next.js · Preact · TanStack · Tailwind CSS · GSAP |
-| **Backend y datos** | NestJS · Node.js · Prisma · PostgreSQL · MongoDB · SQLite y SQLCipher · Supabase · Directus · Better Auth |
-| **Nativo** | Tauri · Flutter |
-| **Infraestructura** | Proxmox VE · Kubernetes · Terraform · Ansible · Docker · Dokploy · Cloudflare · WireGuard · Linux · Bash |
-| **Entrega y observabilidad** | Jenkins · GitHub Actions · Argo CD · Prometheus · Grafana · Bitwarden |
-| **Calidad y herramientas** | Vitest · Playwright · Vite · pnpm · Git |
-| **IA** | Claude Code · Model Context Protocol |
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,dart,html,css&theme=dark&perline=8" height="40" alt="TypeScript, JavaScript, Go, Rust, Python, Dart, HTML y CSS." /><br />SQL |
+| **Web e interfaz** | <img src="https://skillicons.dev/icons?i=astro,react,nextjs,tailwind&theme=dark&perline=4" height="40" alt="Astro, React, Next.js y Tailwind CSS." /><br />Preact · TanStack · GSAP |
+| **Backend y datos** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mongodb,redis,sqlite,supabase&theme=dark&perline=8" height="40" alt="NestJS, Node.js, Prisma, PostgreSQL, MongoDB, Redis, SQLite y Supabase." /><br />Directus · Better Auth · SQLCipher |
+| **Nativo** | <img src="https://skillicons.dev/icons?i=tauri,flutter&theme=dark&perline=2" height="40" alt="Tauri y Flutter." /> |
+| **Infraestructura** | <img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,docker,cloudflare,linux,bash&theme=dark&perline=7" height="40" alt="Kubernetes, Terraform, Ansible, Docker, Cloudflare, Linux y Bash." /><br />Proxmox VE · Dokploy · WireGuard |
+| **Entrega y observabilidad** | <img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,grafana&theme=dark&perline=4" height="40" alt="Jenkins, GitHub Actions, Prometheus y Grafana." /><br />Argo CD · Bitwarden Secrets Manager |
+| **Calidad y herramientas** | <img src="https://skillicons.dev/icons?i=vitest,vite,pnpm,git&theme=dark&perline=4" height="40" alt="Vitest, Vite, pnpm y Git." /><br />Playwright |
+| **IA** | Claude Code · Model Context Protocol · Spec-Driven Development |
 
 ## Contribuciones
 
