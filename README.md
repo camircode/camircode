@@ -45,16 +45,51 @@ El [portfolio](https://github.com/camircode/portfolio) también es código abier
 Cada una tiene su página en [camir.tech/tecnologias](https://camir.tech/tecnologias/),
 donde explico para qué sirve y cómo la uso.
 
-| Área | Herramientas |
-| --- | --- |
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,dart,html,css&theme=dark&perline=8" height="40" alt="TypeScript, JavaScript, Go, Rust, Python, Dart, HTML y CSS." /><br />SQL |
-| **Web e interfaz** | <img src="https://skillicons.dev/icons?i=astro,react,nextjs,tailwind&theme=dark&perline=4" height="40" alt="Astro, React, Next.js y Tailwind CSS." /><br />Preact · TanStack · GSAP |
-| **Backend y datos** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mongodb,redis,sqlite,supabase&theme=dark&perline=8" height="40" alt="NestJS, Node.js, Prisma, PostgreSQL, MongoDB, Redis, SQLite y Supabase." /><br />Directus · Better Auth · SQLCipher |
-| **Nativo** | <img src="https://skillicons.dev/icons?i=tauri,flutter&theme=dark&perline=2" height="40" alt="Tauri y Flutter." /> |
-| **Infraestructura** | <img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,docker,cloudflare,linux,bash&theme=dark&perline=7" height="40" alt="Kubernetes, Terraform, Ansible, Docker, Cloudflare, Linux y Bash." /><br />Proxmox VE · Dokploy · WireGuard |
-| **Entrega y observabilidad** | <img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,grafana&theme=dark&perline=4" height="40" alt="Jenkins, GitHub Actions, Prometheus y Grafana." /><br />Argo CD · Bitwarden Secrets Manager |
-| **Calidad y herramientas** | <img src="https://skillicons.dev/icons?i=vitest,vite,pnpm,git&theme=dark&perline=4" height="40" alt="Vitest, Vite, pnpm y Git." /><br />Playwright |
-| **IA** | Claude Code · Model Context Protocol · Spec-Driven Development |
+<p align="center">
+  <sub><b>LENGUAJES</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,dart,html,css&theme=dark&perline=8" height="48" alt="TypeScript, JavaScript, Go, Rust, Python, Dart, HTML y CSS." />
+  <br /><sub>SQL</sub>
+</p>
+
+<p align="center">
+  <sub><b>WEB E INTERFAZ</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,tailwind&theme=dark&perline=4" height="48" alt="Astro, React, Next.js y Tailwind CSS." />
+  <br /><sub>Preact · TanStack · GSAP</sub>
+</p>
+
+<p align="center">
+  <sub><b>BACKEND Y DATOS</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mongodb,redis,sqlite,supabase&theme=dark&perline=8" height="48" alt="NestJS, Node.js, Prisma, PostgreSQL, MongoDB, Redis, SQLite y Supabase." />
+  <br /><sub>Directus · Better Auth · SQLCipher</sub>
+</p>
+
+<p align="center">
+  <sub><b>NATIVO</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=tauri,flutter&theme=dark&perline=2" height="48" alt="Tauri y Flutter." />
+</p>
+
+<p align="center">
+  <sub><b>INFRAESTRUCTURA</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,docker,cloudflare,linux,bash&theme=dark&perline=7" height="48" alt="Kubernetes, Terraform, Ansible, Docker, Cloudflare, Linux y Bash." />
+  <br /><sub>Proxmox VE · Dokploy · WireGuard</sub>
+</p>
+
+<p align="center">
+  <sub><b>ENTREGA Y OBSERVABILIDAD</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,grafana&theme=dark&perline=4" height="48" alt="Jenkins, GitHub Actions, Prometheus y Grafana." />
+  <br /><sub>Argo CD · Bitwarden Secrets Manager</sub>
+</p>
+
+<p align="center">
+  <sub><b>CALIDAD Y HERRAMIENTAS</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=vitest,vite,pnpm,git&theme=dark&perline=4" height="48" alt="Vitest, Vite, pnpm y Git." />
+  <br /><sub>Playwright</sub>
+</p>
+
+<p align="center">
+  <sub><b>IA</b></sub><br />
+  <sub>Claude Code · Model Context Protocol · Spec-Driven Development</sub>
+</p>
 
 ## Contribuciones
 
